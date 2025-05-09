@@ -1,4 +1,4 @@
-# SPOTIFY-LISTENING-ANALYSIS
+# SPOTIFY-ANALYSIS-CUSTOM-VERSION
 This contains a Personal Spotify Listening Analysis based on my history which was provided by Spotify. The datset provided was based on my listening history on spotify since i began using it from 2021 to 2024.
 
 ## Table of Content##
@@ -109,3 +109,12 @@ Track Frequency = COUNTROWS('Spotify Data')
 ## 5.0 Data Visualization
 
 ## 6.0 Insights Gotten
+6.1 - *We can see that the total listening time over the 4 year period (2021-2024) was 2,547 hours.*
+
+6.2 - *We can see that the Top Performing Album was Work of Art by Asake which has a total listening time of 44 Hours, the Top Performing Artist was Asake with a total listening time of 125 hours and also the Top Performing Track was Omo Ope by Asake and Olamide with a total listening time of 23 Hours*
+
+6.3 - *We can see that there was a total number of 2,360 Albums, 1,076 Artists and 3,938 Tracks Played over the 4 year period.*
+
+6.4 - *We can see the variations of trend in the listening analysis and at different time of the day*
+
+
