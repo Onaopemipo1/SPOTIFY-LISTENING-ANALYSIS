@@ -107,6 +107,14 @@ Track Frequency = COUNTROWS('Spotify Data')
 
 ```
 ## 5.0 Data Visualization
+![](Spotify1.png)
+
+![](Spotify2.png)
+
+![](Spotify3.png)
+
+![](Spotify4.png)
+
 
 ## 6.0 Insights Gotten
 6.1 - *We can see that the total listening time over the 4 year period (2021-2024) was 2,547 hours.*
